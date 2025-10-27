@@ -1,0 +1,22 @@
+Tailwind CSS — ეს არის utility-first CSS framework, ანუ ისეთი ინსტრუმენტების ნაკრები, რომელიც გაძლევს საშუალებას სწრაფად შექმნა დიზაინი პირდაპირ HTML კოდში, წინასწარ გაწერილი CSS-ის გარეშე.
+
+ჩვეულებრივი CSS:
+
+<style>
+  .btn {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
+</style>
+
+<button class="btn">Click me</button>
+
+
+
+Tailwind CSS
+
+<button class="bg-blue-500 text-white px-4 py-2 rounded-lg">
+  Click me
+</button>

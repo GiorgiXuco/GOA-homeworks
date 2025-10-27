@@ -1,0 +1,5 @@
+2) როგორ უნდა წამოვიღოთ ასეთი state იდან შესაბამისი მნიშვნელობები?
+
+state-იდან მნიშვნელობები ამოგაქვთ ან destructuring-ით:
+
+const { firstName, lastName, email, password } = formData;

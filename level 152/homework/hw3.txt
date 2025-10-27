@@ -1,0 +1,5 @@
+1)State ვქმნით მნიშვნელობის შესანახად (useState).
+
+2)value-ში ვაწვდით state-ს.
+
+3)onChange-ში ვაახლებთ state-ს.
